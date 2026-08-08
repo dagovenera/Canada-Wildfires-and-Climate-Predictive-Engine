@@ -16,7 +16,7 @@ st.set_page_config(
 @st.cache_resource
 def load_prediction_artifacts():
     # Load trained model and feature array
-    return joblib.load("canadian_wildfire_model.pkl")
+    return joblib.load("pipeline/canadian_wildfire_model.pkl")
 
 
 try:
