@@ -78,6 +78,6 @@ streamlit run pipeline/app.py
 ## 👨‍💻 Developer Profiles
 
 **Dagoberto E. Venera-Ponton, PhD**  
-*Specialization: Bioinformatics, Advanced Statistical Pipelines, & Machine Learning*  
+*Bioinformatics, Ecology, Advanced Statistical Pipelines & Machine Learning*  
 - **LinkedIn:** [https://linkedin.com/in/dagoberto-venera-ponton-phd]
 - **Email:** [dagovenera@gmail.com]
