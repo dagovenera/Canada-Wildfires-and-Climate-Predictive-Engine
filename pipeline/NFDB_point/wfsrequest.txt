@@ -1,0 +1,1 @@
+https://geoserver.cwfif.nrcan.gc.ca/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&outputFormat=shape-zip&typeNames=public:NFDB_point&sortBy=rep_date+D&_gl=1*n4ifsx*_ga*MTQzNTY2MzYyNy4xNzg1ODU1MTc4*_ga_C2N57Y7DX5*czE3ODU4ODAxNTQkbzIkZzEkdDE3ODU4ODEwMzckajMkbDAkaDA.
