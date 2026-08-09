@@ -3,7 +3,7 @@ A fully deployed XGBoost Machine Learning Engine that predicts Wildfires in Cana
 
 # 🔥 Canadian Wildfire & Climate Predictive Engine
 
-[![Streamlit App](https://streamlit.io)](YOUR_STREAMLIT_CLOUD_LIVE_URL_HERE)
+[![Streamlit App](https://streamlit.io)](https://canada-wildfires-and-climate-predictive-engine.streamlit.app/)
 [![Python](https://shields.io)](https://python.org)
 [![XGBoost](https://shields.io)](https://readthedocs.io)
 
