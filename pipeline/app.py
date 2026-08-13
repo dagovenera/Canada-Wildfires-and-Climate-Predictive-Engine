@@ -36,7 +36,7 @@ except FileNotFoundError:
 st.title("🔥 Canadian Wildfire & Climate Predictive Engine")
 st.markdown(
     """
-    **Data Science MVP Portfolio Project** | *Domain Context: Environment and Climate Change Canada (ECCC)*  
+    **Data Science MVP Portfolio Project** | *Domain Context: Environment and Climate Change in Canada*  
     This interface connects real-time user-defined meteorological metrics to an optimized **XGBoost Classifier** 
     to forecast localized, compounding wildfire risks across high-density Canadian forest structures.
     """

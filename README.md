@@ -53,7 +53,7 @@ Wildfire occurrences represent an extreme minority class relative to baseline tr
 ### 1. Clone the Architecture and Initialize the Virtual Environment
 ```bash
 git clone https://github.com
-cd Canada-Wildfires-Predictive-Engine
+cd Canada-Wildfires-and-Climate-Predictive-Engine
 python -m venv .venv
 source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -75,7 +75,7 @@ streamlit run pipeline/app.py
 
 ---
 
-## 👨‍💻 Developer Profiles
+## 👨‍💻 Developer Profile
 
 **Dagoberto E. Venera-Ponton, PhD**  
 *Bioinformatics, Ecology, Advanced Statistical Pipelines & Machine Learning*  
