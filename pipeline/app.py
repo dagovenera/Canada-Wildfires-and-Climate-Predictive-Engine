@@ -131,6 +131,6 @@ st.write("---")
 st.caption(
     """
     Designed and engineered by **Dagoberto Venera-Ponton, PhD**.  
-    Open-source implementation code available on [GitHub](https://github.com/dagovenera/Canada-Wildfires-and-Climate-Predictive-Engine.git).
+    Open-source code available on [GitHub](https://github.com/dagovenera/Canada-Wildfires-and-Climate-Predictive-Engine.git).
     """
 )
